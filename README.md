@@ -11,4 +11,3 @@ Steps:
 Exercises
 1) [Exercise 1](https://github.com/zhaohonglau/git-elearning-sddvops-exercise1)
 2) [Exercise 2](https://github.com/zhaohonglau/git-elearning-sddvops-exercise2)
-3) [Exercise 3](https://github.com/zhaohonglau/git-elearning-sddvops-exercise3)
