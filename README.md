@@ -9,7 +9,7 @@ Steps:
 
 
 Exercises
-1) [Exercise 1](https://github.com/zhaohonglau/git-elearning-sddvops-exercise1)
-2) [Exercise 2](https://github.com/zhaohonglau/git-elearning-sddvops-exercise2)
+1) [Exercise 1](https://github.com/zhaohonglau/git-elearning-sddvops-exercise1) - Stage and Commit files
+2) [Exercise 2](https://github.com/zhaohonglau/git-elearning-sddvops-exercise2) - Branching and Resolve Conflicts
 
 
