@@ -6,4 +6,3 @@ Steps:
 2) Follow the instructions in each of the exercises
 3) You can run java -jar <path-to-gitrule.jar> to check your progress
 4) Once you are completed the exercise (after checking the progress using the gitruler tool), push the completed repository
-5) Send me 
