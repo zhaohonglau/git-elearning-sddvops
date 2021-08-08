@@ -4,10 +4,12 @@ You can download gitruler.jar from https://github.com/rcraggs/gitruler/releases/
 Steps:
 1) Clone exercise using your VM's Eclipse IDE
 2) Follow the instructions in each of the exercises
-3) You can run java -jar <path-to-gitrule.jar> to check your progress
+3) You can use the gitruler.jar to check your progress
 4) Once you are completed the exercise (after checking the progress using the gitruler tool), push the completed repository
 
 
 Exercises
 1) [Exercise 1](https://github.com/zhaohonglau/git-elearning-sddvops-exercise1)
 2) [Exercise 2](https://github.com/zhaohonglau/git-elearning-sddvops-exercise2)
+
+Screenshots the gitruler.jar result and submit it to your tutor
